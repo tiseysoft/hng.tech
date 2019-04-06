@@ -8,7 +8,7 @@ html>
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/iambeejayayo/image/upload/v1547954566/fav-500.png" alt="Mark Essien">
+                        <img src="https://res.cloudinary.com/dkyndqqdl/image/upload/v1554505676/tiseypic.jpg" alt="Mark Essien">
                         <h6>Tisey Okuwobi</h6>
                         <p>Back end engr</p>
                         <ul class="list">
