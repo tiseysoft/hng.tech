@@ -1,4 +1,4 @@
-html>
+<html>
    <?php include 'partials/header.php';?>
    <body class=" pi">
       <?php include 'partials/navbar.php';?>
